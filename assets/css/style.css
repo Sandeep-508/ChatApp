@@ -258,16 +258,6 @@
     flex-direction: column;
 }
 
-/* .pos-rel {
-    position: relative;
-} */
-
-/* .bar {
-    position: absolute;
-    left: 0;
-    width: 40%;
-} */
-
 #tryfree {
     border-radius: 60px;
     background: #1E71FF;
@@ -394,10 +384,6 @@ ul li {
 
     .mt-80 {
         margin-top: 80px;
-    }
-
-    .pro {
-        margin-bottom: 50px;
     }
 
     ul li {
@@ -546,6 +532,10 @@ ul li {
 
     .mb-80 {
         margin-bottom: 80px;
+    }
+
+    .pro {
+        max-width: 285px;
     }
 
 }
