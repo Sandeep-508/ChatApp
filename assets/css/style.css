@@ -349,7 +349,10 @@ ul li {
     margin-bottom: 10px;
 }
 
-
+.w-h-100 {
+    width: 100%;
+    height: 100%;
+}
 
 @media (min-width: 320px) {
     .col-sm-12 {
